@@ -1,0 +1,1 @@
+di dalam file data.txt ini akan terisi ketika telah melakukan create data.
